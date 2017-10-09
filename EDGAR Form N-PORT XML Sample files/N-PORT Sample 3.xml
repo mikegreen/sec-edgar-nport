@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/nport eis_NPORT_Filer.xsd " xmlns="http://www.sec.gov/edgar/nport" xmlns:com="http://www.sec.gov/edgar/common" xmlns:ncom="http://www.sec.gov/edgar/nportcommon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>NPORT-NP</submissionType>
+		<filerInfo>
+			<liveTestFlag>TEST</liveTestFlag>
+			<filer>
+				<fileNumber>811-21044</fileNumber>
+				<issuerCredentials>
+					<cik>0000350001</cik>
+					<ccc>dazzle#1</ccc>
+				</issuerCredentials>
+			</filer>
+			<contact>
+				<name>token</name>
+				<phone>token</phone>
+				<email>test@test.com</email>
+			</contact>
+			<notifications>
+				<notificationEmailAddress>test@test.com</notificationEmailAddress>
+			</notifications>
+			<seriesClassInfo>
+				<seriesId>S000002112</seriesId>
+				<classId>C000000309</classId>
+			</seriesClassInfo>
+			<flags>
+				<returnCopyFlag>true</returnCopyFlag>
+				<overrideInternetFlag>true</overrideInternetFlag>
+				<confirmingCopyFlag>true</confirmingCopyFlag>
+			</flags>
+			<invstCompanyType>N-1A</invstCompanyType>
+		</filerInfo>
+	</headerData>
+	<formData>
+		<genInfo>
+			<regName>a</regName>
+			<regFileNumber>0-0</regFileNumber>
+			<regCik>0</regCik>
+			<regLei>12345678901234567890</regLei>
+			<regStreet1>a</regStreet1>
+			<regStreet2>a</regStreet2>
+			<regCity>a</regCity>
+			<regStateConditional regCountry="US" regState="US-DE"/>
+			<regZipOrPostalCode>a</regZipOrPostalCode>
+			<regPhone>a</regPhone>
+			<seriesName>a</seriesName>
+			<seriesId>S000000000</seriesId>
+			<seriesLei>N/A</seriesLei>
+			<repPdEnd>2017-12-12</repPdEnd>
+			<repPdDate>0000-0-0</repPdDate>
+			<isFinalFiling>Y</isFinalFiling>
+		</genInfo>
+		<fundInfo>
+			<totAssets>0</totAssets>
+			<totLiabs>0</totLiabs>
+			<netAssets>0</netAssets>
+			<assetsAttrMiscSec>0</assetsAttrMiscSec>
+			<assetsInvested>0</assetsInvested>
+			<amtPayOneYrBanksBorr>0</amtPayOneYrBanksBorr>
+			<amtPayOneYrCtrldComp>0</amtPayOneYrCtrldComp>
+			<amtPayOneYrOthAffil>0</amtPayOneYrOthAffil>
+			<amtPayOneYrOther>0</amtPayOneYrOther>
+			<amtPayAftOneYrBanksBorr>0</amtPayAftOneYrBanksBorr>
+			<amtPayAftOneYrCtrldComp>0</amtPayAftOneYrCtrldComp>
+			<amtPayAftOneYrOthAffil>0</amtPayAftOneYrOthAffil>
+			<amtPayAftOneYrOther>0</amtPayAftOneYrOther>
+			<delayDeliv>0</delayDeliv>
+			<standByCommit>0</standByCommit>
+			<liquidPref>0</liquidPref>
+			<curMetrics>
+				<curMetric>
+					<curCd>BGN</curCd>
+					<intrstRtRiskdv01 period3Mon="0" period1Yr="0" period5Yr="0" period10Yr="0" period30Yr="0"/>
+					<intrstRtRiskdv100 period3Mon="0" period1Yr="0" period5Yr="0" period10Yr="0" period30Yr="0"/>
+				</curMetric>
+			</curMetrics>
+			<creditSprdRiskInvstGrade period3Mon="0" period1Yr="0" period5Yr="0" period10Yr="0" period30Yr="0"/>
+			<creditSprdRiskNonInvstGrade period3Mon="0" period1Yr="0" period5Yr="0" period10Yr="0" period30Yr="0"/>
+			<borrowers>
+				<borrower name="a" lei="N/A" aggrVal="0"/>
+			</borrowers>
+			<isNonCashCollateral>N</isNonCashCollateral>
+			<returnInfo>
+				<monthlyTotReturns>
+					<monthlyTotReturn rtn1="-100" rtn2="-100" rtn3="-100" classId="C000000000"/>
+				</monthlyTotReturns>
+				<monthlyReturnCats>
+					<commodityContracts>
+						<mon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+						<mon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+						<mon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						<forwardCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</forwardCategory>
+						<futureCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</futureCategory>
+						<optionCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</optionCategory>
+						<swaptionCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</swaptionCategory>
+						<swapCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</swapCategory>
+						<warrantCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</warrantCategory>
+						<otherCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</otherCategory>
+					</commodityContracts>
+					<creditContracts>
+						<mon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+						<mon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+						<mon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						<forwardCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</forwardCategory>
+						<futureCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</futureCategory>
+						<optionCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</optionCategory>
+						<swaptionCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</swaptionCategory>
+						<swapCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</swapCategory>
+						<warrantCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</warrantCategory>
+						<otherCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</otherCategory>
+					</creditContracts>
+					<equityContracts>
+						<mon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+						<mon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+						<mon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						<forwardCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</forwardCategory>
+						<futureCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</futureCategory>
+						<optionCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</optionCategory>
+						<swaptionCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</swaptionCategory>
+						<swapCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</swapCategory>
+						<warrantCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</warrantCategory>
+						<otherCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</otherCategory>
+					</equityContracts>
+					<foreignExchgContracts>
+						<mon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+						<mon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+						<mon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						<forwardCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</forwardCategory>
+						<futureCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</futureCategory>
+						<optionCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</optionCategory>
+						<swaptionCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</swaptionCategory>
+						<swapCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</swapCategory>
+						<warrantCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</warrantCategory>
+						<otherCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</otherCategory>
+					</foreignExchgContracts>
+					<interestRtContracts>
+						<mon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+						<mon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+						<mon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						<forwardCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</forwardCategory>
+						<futureCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</futureCategory>
+						<optionCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</optionCategory>
+						<swaptionCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</swaptionCategory>
+						<swapCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</swapCategory>
+						<warrantCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</warrantCategory>
+						<otherCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</otherCategory>
+					</interestRtContracts>
+					<otherContracts>
+						<mon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+						<mon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+						<mon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						<forwardCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</forwardCategory>
+						<futureCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</futureCategory>
+						<optionCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</optionCategory>
+						<swaptionCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</swaptionCategory>
+						<swapCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</swapCategory>
+						<warrantCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</warrantCategory>
+						<otherCategory>
+							<instrMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+							<instrMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+						</otherCategory>
+					</otherContracts>
+				</monthlyReturnCats>
+				<othMon1 netRealizedGain="0" netUnrealizedAppr="0"/>
+				<othMon2 netRealizedGain="0" netUnrealizedAppr="0"/>
+				<othMon3 netRealizedGain="0" netUnrealizedAppr="0"/>
+			</returnInfo>
+			<mon1Flow sales="0" reinvestment="0" redemption="0"/>
+			<mon2Flow sales="0" reinvestment="0" redemption="0"/>
+			<mon3Flow sales="0" reinvestment="0" redemption="0"/>
+			<liquidInvst>
+				<highlyLiquidInvst>0</highlyLiquidInvst>
+				<daysOfHolding>0</daysOfHolding>
+				<isChangeRepPd>N</isChangeRepPd>
+			</liquidInvst>
+			<aggrClassificationInfo>
+				<fundCat>N/A</fundCat>
+			</aggrClassificationInfo>
+		</fundInfo>
+		<invstOrSecs>
+			<invstOrSec>
+				<notDissem>true</notDissem> <!-- Part D-->
+				<name>Cisco</name>
+				<lei>N/A</lei>
+				<title>a</title>
+				<cusip>17275R102</cusip>
+				<identifiers>
+					<isin value="US17275R1022"/>
+				</identifiers>
+				<balance>0</balance>
+				<units>NC</units>
+				<descOthUnits>a</descOthUnits>
+				<curCd>USD</curCd>
+				<valUSD>0</valUSD>
+				<pctVal>0</pctVal>
+				<payoffProfile>Long</payoffProfile>
+				<assetCat>DFE</assetCat>
+				<issuerCat>USGA</issuerCat>
+				<invCountry>GH</invCountry>
+				<invOthCountry>GN</invOthCountry>
+				<isRestrictedSec>Y</isRestrictedSec>
+				<fundCat>LLI</fundCat>
+				<fairValLevel>N/A</fairValLevel>
+				<debtSec>
+					<maturityDt>2017-08-01</maturityDt>
+					<couponKind>None</couponKind>
+					<annualizedRt>0</annualizedRt>
+					<isDefault>N</isDefault>
+					<areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+					<isPaidKind>Y</isPaidKind>
+					<isMandatoryConvrtbl>N</isMandatoryConvrtbl>
+					<isContngtConvrtbl>N</isContngtConvrtbl>
+					<name>Oracle Corp</name>
+					<title>a</title>
+					<curCd>PLN</curCd>
+					<identifiers>
+						<cusip value="68389X105"/>
+					</identifiers>
+					<currencyInfos>
+						<currencyInfo convRatio="0" curCd="TOP"/>
+					</currencyInfos>
+					<delta>0</delta>
+				</debtSec>
+				<repurchaseAgrmt>
+					<transCat>Repurchase</transCat>
+					<clearedCentCparty isCleared="Y" centralCounterparty="a"/>
+					<isTriParty>Y</isTriParty>
+					<repurchaseRt>0</repurchaseRt>
+					<maturityDt>2017-08-01</maturityDt>
+					<repurchaseCollaterals>
+						<repurchaseCollateral>
+							<principalAmt>0</principalAmt>
+							<principalCd>CHF</principalCd>
+							<collateralVal>0</collateralVal>
+							<collateralCd>GTQ</collateralCd>
+							<invstCat>UST</invstCat>
+						</repurchaseCollateral>
+					</repurchaseCollaterals>
+				</repurchaseAgrmt>
+				<derivativeInfo>
+					<optionSwaptionWarrantDeriv derivCat="WAR">
+						<counterpartyName>a</counterpartyName>
+						<counterpartyLei>N/A</counterpartyLei>
+						<putOrCall>Call</putOrCall>
+						<writtenOrPur>Written</writtenOrPur>
+						<descRefInstrmnt>
+							<nestedDerivInfo>
+								<othDeriv derivCat="OTH" othDesc="a">
+									<counterpartyName>a</counterpartyName>
+									<counterpartyLei>N/A</counterpartyLei>
+									<derivAddlInfo>
+										<name>Apple Corp</name>
+										<lei>N/A</lei>
+										<title>Apple</title>
+										<cusip> 037833100</cusip>
+										<identifiers>
+											<isin value="US0378331005"/>
+										</identifiers>
+										<balance>0</balance>
+										<units>OU</units>
+										<descOthUnits>a</descOthUnits>
+										<curCd>USD</curCd>
+										<valUSD>0</valUSD>
+										<pctVal>0</pctVal>
+										<assetCat>DBT</assetCat>
+										<issuerCat>PF</issuerCat>
+										<invCountry>UG</invCountry>
+										<invOthCountry>DZ</invOthCountry>
+									</derivAddlInfo>
+									<descRefInstrmnt>
+										<indexBasketInfo>
+											<indexName>a</indexName>
+											<indexIdentifier>a</indexIdentifier>
+											<narrativeDesc>a</narrativeDesc>
+											<components>
+												<component>
+													<othIndName>Google Inc</othIndName>
+													<identifiers>
+														<cusip value="38259P508"/>
+													</identifiers>
+													<othIndNotAmt>22.2</othIndNotAmt>
+													<othIndCurCd>STD</othIndCurCd>
+													<othIndValue>0</othIndValue>
+													<othIndIssCurCd>DKK</othIndIssCurCd>
+												</component>
+											    <component>
+													<othIndName>Assyst</othIndName>
+													<identifiers>
+														<isin value="US0002634946"/>
+													</identifiers>
+													<othIndNotAmt>22.2</othIndNotAmt>
+													<othIndCurCd>STD</othIndCurCd>
+													<othIndValue>0</othIndValue>
+													<othIndIssCurCd>DKK</othIndIssCurCd>
+												</component>
+												<component>
+													<othIndName>Microsoft Corporation</othIndName>
+													<identifiers>
+														<cusip value="594918104"/>
+													</identifiers>
+													<othIndNotAmt>22.2</othIndNotAmt>
+													<othIndCurCd>STD</othIndCurCd>
+													<othIndValue>0</othIndValue>
+													<othIndIssCurCd>DKK</othIndIssCurCd>
+												</component>
+											</components>
+										</indexBasketInfo>
+									</descRefInstrmnt>
+									<terminationDt>2017-08-01</terminationDt>
+									<notionalAmts>
+										<notionalAmt amt="0" curCd="AED"/>
+									</notionalAmts>
+								</othDeriv>
+							</nestedDerivInfo>
+						</descRefInstrmnt>
+						<shareNo>0</shareNo>
+						<principalAmt>0</principalAmt>
+						<curCd>VND</curCd>
+						<exercisePrice>0</exercisePrice>
+						<expDt>2017-08-01</expDt>
+						<delta>0</delta>
+						<unrealizedAppr>0</unrealizedAppr>
+					</optionSwaptionWarrantDeriv>
+				</derivativeInfo>
+				<securityLending>
+					<isCashCollateral>N</isCashCollateral>
+					<isNonCashCollateral>N</isNonCashCollateral>
+					<isLoanByFund>N</isLoanByFund>
+				</securityLending>
+			</invstOrSec>
+		</invstOrSecs>
+		<explntrNotes>
+			<explntrNote noteItem="B.6.a" note="a"/>
+		</explntrNotes>
+		<signature>
+			<ncom:dateSigned>2001-01-01</ncom:dateSigned>
+			<ncom:nameOfApplicant>token</ncom:nameOfApplicant>
+			<ncom:signature>token</ncom:signature>
+			<ncom:signerName>token</ncom:signerName>
+			<ncom:title>token</ncom:title>
+		</signature>
+	</formData>
+	<documents>
+		<com:document>
+			<com:conformedName>file2.txt</com:conformedName>
+			<com:conformedDocumentType>COVER</com:conformedDocumentType>
+			<com:contents>KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqDQpGaWZ0aCBkb2N1bWVu
+dA0KDQogICAgICAgIFNQRUNJTUVOIC0gTk9UIEFOIE9GRklDSUFMIEZJTElORw0KDQoqKioq
+KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioNCg0K</com:contents>
+		</com:document>
+		<com:document>
+			<com:conformedName>file3.txt</com:conformedName>
+			<com:conformedDocumentType>CODE OF ETHICS</com:conformedDocumentType>
+			<com:contents>KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqDQpGaWZ0aCBkb2N1bWVu
+dA0KDQogICAgICAgIFNQRUNJTUVOIC0gTk9UIEFOIE9GRklDSUFMIEZJTElORw0KDQoqKioq
+KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioNCg0K</com:contents>
+		</com:document>
+	</documents>
+</edgarSubmission>
